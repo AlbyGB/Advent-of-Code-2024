@@ -5,7 +5,7 @@ pattern = r'mul\(\d{1,3},\d{1,3}\)|do\(\)|don\'t\(\)'
 second_pattern = r'mul\((\d{1,3}),(\d{1,3})\)'
 
 file_input = 'input.txt'
-file_output = 'output.txt'
+file_output = 'day3/output.txt'
 
 """with open(file_input, 'r') as f:
     testo = f.read()
