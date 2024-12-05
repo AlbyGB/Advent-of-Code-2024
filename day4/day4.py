@@ -1,4 +1,4 @@
-file_path = "day4/input.txt"
+file_path = "input.txt"
 result = 0
 letters = []
 
